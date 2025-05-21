@@ -1,5 +1,6 @@
 <h1 align="left">Hey 👋 Welcome to my space!</h1>
-![snake gif](https://github.com/Romulo581/Romulo581/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/romulo581/romulo581/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
 
