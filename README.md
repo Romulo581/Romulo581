@@ -74,28 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romulo581&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
 </div>
 
----
-
-## 🗃️ Banco de Dados
-
-Este repositório inclui arquivos relacionados aos seguintes sistemas de banco de dados:
-
-- 🐬 **MySQL** – scripts localizados na pasta [`/db/mysql`](./db/mysql)
-- 🐘 **PostgreSQL (pgAdmin)** – scripts e configurações na pasta [`/db/postgresql`](./db/postgresql)
-- 🗄️ **SQLite** – arquivos `.db` na pasta [`/db/sqlite`](./db/sqlite)
-
-### Exemplos de arquivos:
-```sql
--- MySQL exemplo
-CREATE TABLE usuarios (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  nome VARCHAR(100) NOT NULL,
-  email VARCHAR(100) UNIQUE
-);
-
-###
-
-<!-- Optional Pac-Man SVGs, if you implement a custom version -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romulo581/romulo581/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romulo581/romulo581/output/pacman-contribution-graph.svg">
