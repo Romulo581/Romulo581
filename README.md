@@ -62,7 +62,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello logo" />
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" />
+  <img width="12" />
 </div>
 
 ###
