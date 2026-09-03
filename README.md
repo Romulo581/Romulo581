@@ -67,12 +67,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img width="12" />
   <img src="https://www.cobol.com/wp-content/uploads/2020/10/cobol-logo.png" height="40" alt="COBOL logo" />
-  <img width="12" />
+  <img width="20" />
 </div>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romulo581&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
 
 </div>
 
